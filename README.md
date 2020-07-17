@@ -1,0 +1,5 @@
+# 545FinalProject
+
+The motivation for this project comes from my interest in what "healthy eating" really means. It is difficult to define because new data emerges all the time giving updated advice on how to eat healthy. Should we eat foods low in fat? In sugar? Exclusively in trans fat? We will look at the distribution of nutritional data and how each component is correlated with others, which can hopefully shed some light on what healthy means.
+
+In this notebook, I will try to better understand how to classify foods and recipes as healthy or unhealthy by looking at nutritional data to decide what facts might make a food unhealthy. I then bring in additional data via XPath to determine which are the healthiest of foods in our dataset. I use these two preliminary ideas of healthy vs. unhealthy to build a classifier that determines whether all other foods in the dataset are healthy or not. Lastly, I use these predictions to determine which recipes in an Epicurious dataset are healthiest, and bring in a prices dataset to determine which of those is the most cost effective!
